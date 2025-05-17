@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link id="dynamic-favicon" rel="icon" type="image/gif" href="">
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const favicon = document.getElementById('dynamic-favicon');
+      favicon.href = 'src/assets/RHTS.gif'; // relative to this HTML file
+    });
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GTA</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
