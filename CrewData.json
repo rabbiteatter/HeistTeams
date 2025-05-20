@@ -1,0 +1,48 @@
+{
+    "RHTS Crews": [
+        {
+            "name": "RedditHeistTeams",
+            "tag": "RHTS",
+            "url": "https://socialclub.rockstargames.com/crew/redditheistteams",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/3284/45412834/publish/emblem/emblem_128.png",
+            "description": ""
+        },
+        {
+            "name": "RedditHeistTeams2",
+            "tag": "RHTS",
+            "url": "https://socialclub.rockstargames.com/crew/redditheistteams2",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/5144/73716632/publish/emblem/emblem_128.png",
+            "description": ""
+        },
+        {
+            "name": "RedditHeistTeams3",
+            "tag": "RHTS",
+            "url": "https://socialclub.rockstargames.com/crew/redditheistteams3",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/3680/74783392/publish/emblem/emblem_128.png",
+            "description": ""
+        }
+    ],
+    "HeistTeams Crews": [
+        {
+            "name": "HeistTeamsCrewPC",
+            "tag": "HTPC",
+            "url": "https://socialclub.rockstargames.com/crew/heistteamscrewpc",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/8041/76137066/publish/emblem/emblem_128.png",
+            "description": ""
+        },
+        {
+            "name": "HeistTeamsCrewPS",
+            "tag": "HTPS",
+            "url": "https://socialclub.rockstargames.com/crew/heistteamscrewps",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/9366/76186777/publish/emblem/emblem_128.png",
+            "description": ""
+        },
+        {
+            "name": "HeistTeamsCrewXB",
+            "tag": "HTXB",
+            "url": "https://socialclub.rockstargames.com/crew/heistteamscrewxb",
+            "logo": "https://prod.cloud.rockstargames.com/crews/sc/1745/76186079/publish/emblem/emblem_128.png",
+            "description": ""
+        }
+    ]
+}
